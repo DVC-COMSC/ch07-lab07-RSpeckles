@@ -18,5 +18,5 @@ while i < len(numbers1):
 	numbers1.pop(i)
 	i += 1
 
-print ("The list numbers \n", numbers1)
-print ("The list for even index elements\n", evenlist)
+print (numbers1)
+print (evenlist)
