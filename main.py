@@ -1,5 +1,5 @@
 
-inputvalues = input('Enter all elements values: ')
+inputvalues = input()
 numbers1 = inputvalues.split() 
 for i in range(len(numbers1)):
 	numbers1[i] = int(numbers1[i]) 
