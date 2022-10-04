@@ -18,5 +18,5 @@ while i < len(numbers1):
 	numbers1.pop(i)
 	i += 1
 
-print (numbers1)
 print (evenlist)
+print (numbers1)
